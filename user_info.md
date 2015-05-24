@@ -12,9 +12,9 @@ data field:
 
 `cellphone`: should be in the form of `XXX-XXX-XXXX`
 
-`email`: E-mail
+`email`: E-mail, also serve as unique id for login
 
-`gender`: male/female
+`gender`: Male/Female
 
 `street`:
 
