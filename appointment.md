@@ -11,3 +11,12 @@
 `paymentId`: link to payment_log.id
 
 `timestamp`: automatically generated
+
+---
+
+###Relation to other tables###
+
+`userId` = `user_info.id`
+
+
+`paymentId` = `payment_log.id`
