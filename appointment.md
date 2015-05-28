@@ -4,11 +4,11 @@
 
 `userId`: link to user_info.id
 
+`paymentId`: link to payment_log.id
+
 `status`: ordered, paid, or serviced.
 
 `apptTime`:
-
-`paymentId`: link to payment_log.id
 
 `timestamp`: automatically generated
 
